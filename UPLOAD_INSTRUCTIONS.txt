@@ -1,0 +1,18 @@
+YuvaIntern Week 1 GitHub upload helper
+
+IMPORTANT:
+GitHub's browser file picker may not allow selecting folders. These files are provided individually so you can select all of them at once.
+
+Files:
+- README.md
+- requirements.txt
+- code_week1_planning_example.py
+- data_logistics_simulated_clean.csv
+
+Upload all four files using GitHub > Add file > Upload files, then click Commit changes.
+
+After upload, the two code/data files will be at the repository root with these simplified filenames. This is acceptable for sharing the source, but the README's example command expects code/ and data/ folders. To preserve that folder structure, use GitHub's web editor to create:
+- code/week1_planning_example.py (paste contents from code_week1_planning_example.py)
+- data/logistics_simulated_clean.csv (upload via the web upload page after creating the data folder if supported)
+
+Do not upload the ZIP itself as a substitute for the individual files if the evaluator needs to view the code/data online.
